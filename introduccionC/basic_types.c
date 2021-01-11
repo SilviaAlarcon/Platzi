@@ -7,6 +7,9 @@ int main(){
 
 /* Basic types: 
     (A) Aritmeticos - valores enteros
+        char 1 byte, -128 to 127
+        unsigned char 1 byte, 0 to 255
+
         int 2 a 4 bytes (el estándar para int es de 4 bytes)
         Comprende números negativos y positivos en los sig. rangos:
         2 Bytes -32,768 to 32,767
